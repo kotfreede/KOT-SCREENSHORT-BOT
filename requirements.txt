@@ -3,3 +3,6 @@ https://github.com/Tinche/aiofiles/archive/master.zip
 tgcrypto
 motor
 dnspython
+Pyrogram
+Pymongo
+Requests 
